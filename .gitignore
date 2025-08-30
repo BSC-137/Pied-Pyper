@@ -1,0 +1,8 @@
+.env.json
+config.js
+*.env
+*.env.*
+node_modules/
+dist/
+build/
+
